@@ -1,1 +1,1 @@
-# inventory-system
+# inventory_system
